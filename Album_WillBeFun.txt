@@ -1,0 +1,8 @@
+Blue Java Cult;Will Be Fun
+1.;"Highway to Programming";4:18
+2.;"Compilation Errors";46:37
+3.;"Another Bytes to the Dust";3:31
+4.;"AI Lover";4:22
+5.;"Breaking the SOLID Rules";2:51
+6.;"Give Me a Peace of Code Tonight";2:42
+7.;"I Wanna Employ That Programmer";8:15
